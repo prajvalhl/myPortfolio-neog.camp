@@ -120,6 +120,10 @@ hr {
   background-color: var(--off-white);
 }
 
+.blog {
+  max-width: 60%;
+}
+
 /* footer */
 .footer {
   background-color: var(--primary-color);
