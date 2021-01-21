@@ -121,7 +121,13 @@ hr {
 }
 
 .blog {
-  max-width: 60%;
+  max-width: 80%;
+}
+
+@media (min-width: 900px) {
+  .blog {
+    max-width: 39%;
+  }
 }
 
 /* footer */
